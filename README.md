@@ -2,7 +2,8 @@
 
 Aplicación de escritorio en Java para gestionar las obras y los trabajadores de una empresa de albañilería. Proyecto de fin de curso de 1.º de Desarrollo de Aplicaciones Multiplataforma (DAM).
 
-![Pantalla principal](capturas/obras.png)
+<img width="1917" height="988" alt="image" src="https://github.com/user-attachments/assets/e9681a35-320b-443c-9bbd-999ebefdc41c" />
+
 
 ## Funcionalidades
 
@@ -32,7 +33,7 @@ Panel donde se genera un resumen según lo que elija el usuario:
 
 ## Tecnologías
 
-- **Java** [versión, por ejemplo 17]
+- **Java** [V.25]
 - **[Swing / JavaFX]** para la interfaz gráfica
 - Programación orientada a objetos (clases, enumerados, separación en gestores)
 - Persistencia de datos en ficheros con `FileWriter`, `BufferedWriter` y `BufferedReader`
@@ -43,10 +44,9 @@ Panel donde se genera un resumen según lo que elija el usuario:
 ├── src/
 │   ├── Class/     # Clases del modelo y gestores (Obra, Trabajador, GestorObras...)
 │   ├── Enum/      # Enumerados (estados, comunidades, equipos de protección...)
-│   ├── Interface/ # Interfaces para cada clase (exportable, gestionable)
-│   ├── Main/      # Codigo principal
-│   ├── UI/        # Interfaz gráfica. Hecha con JavaSwing/JavaFX
-│   └── [paquete de la interfaz]
+│   ├── Interface/ # Interfaces (exportable, gestionable)
+│   ├── Main/      # Fichero principal
+│   └── UI/        # Interfaz gráfica. Hecha con JavaSwing/JavaFX
 ├── obras.txt          # Fichero donde se guardan las obras
 ├── trabajadores.txt   # Fichero donde se guardan los trabajadores
 └── README.md
@@ -67,7 +67,9 @@ Los ficheros `obras.txt` y `trabajadores.txt` deben estar en la raíz del proyec
 
 | Obras | Trabajadores | Estadísticas |
 |-------|--------------|--------------|
-| ![Obras](capturas/obras.png) | ![Trabajadores](capturas/trabajadores.png) | ![Estadísticas](capturas/estadisticas.png) |
+| <img width="1917" height="988" alt="image" src="https://github.com/user-attachments/assets/e9681a35-320b-443c-9bbd-999ebefdc41c" /> | <img width="1917" height="985" alt="image" src="https://github.com/user-attachments/assets/1af80f59-f1ba-4470-b09e-334be508aa59" />
+ | <img width="1917" height="983" alt="image" src="https://github.com/user-attachments/assets/6254a32d-ed33-4f52-be4f-456ebd79a0f7" />
+ |
 
 ## Posibles mejoras
 
