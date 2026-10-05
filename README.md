@@ -72,7 +72,7 @@ Los ficheros `obras.txt` y `trabajadores.txt` deben estar en la raíz del proyec
 
 ## Posibles mejoras
 
-- Migrar el almacenamiento de ficheros a una base de datos MySQL con JDBC
+- Migrar el almacenamiento de ficheros a una base de datos MySQL
 - Renombrar nombres de ficheros al gusto del usuario.
 - Añadir funcionalidades y mejorar la flexibilidad general del programa.
 
