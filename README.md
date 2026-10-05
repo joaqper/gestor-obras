@@ -68,13 +68,13 @@ Los ficheros `obras.txt` y `trabajadores.txt` deben estar en la raíz del proyec
 | Obras | Trabajadores | Estadísticas |
 |-------|--------------|--------------|
 | <img width="1917" height="988" alt="image" src="https://github.com/user-attachments/assets/e9681a35-320b-443c-9bbd-999ebefdc41c" /> | <img width="1917" height="985" alt="image" src="https://github.com/user-attachments/assets/1af80f59-f1ba-4470-b09e-334be508aa59" />
- | <img width="1917" height="983" alt="image" src="https://github.com/user-attachments/assets/6254a32d-ed33-4f52-be4f-456ebd79a0f7" />
- |
+ | <img width="1917" height="983" alt="image" src="https://github.com/user-attachments/assets/6254a32d-ed33-4f52-be4f-456ebd79a0f7" />|
 
 ## Posibles mejoras
 
 - Migrar el almacenamiento de ficheros a una base de datos MySQL con JDBC
 - Renombrar nombres de ficheros al gusto del usuario.
+- Añadir funcionalidades y mejorar la flexibilidad general del programa.
 
 ## Autor
 
